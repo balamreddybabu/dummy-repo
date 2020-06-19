@@ -1,0 +1,5 @@
+power shell
+arm template
+terraform
+git
+docker
