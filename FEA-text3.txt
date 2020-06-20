@@ -1,0 +1,4 @@
+create a new file 
+get the history from feature1 to master branch
+its called as merging
+thats it
