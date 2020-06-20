@@ -1,8 +1,10 @@
 vgfgdf
 hgcbkjachkjashcjas
 cndsjkfhhkagh
-cahsfuavc
-daksgkjasbc
-cdljashciha
-ddsgsvdsgs
-dfsdgsg
+cahsfuav
+
+POWERSHELL
+GIT HUB
+TERRAFORM
+DOCKER
+ARM TEMPLATE
