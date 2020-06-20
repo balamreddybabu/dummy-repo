@@ -1,0 +1,5 @@
+pull the history 
+from feature2 to master branch
+its called as merge 
+or pull the history
+thats it
